@@ -1,0 +1,30 @@
+{
+  "name": "express-pinger",
+  "version": "0.1.0",
+  "description": "Simple node.js app that mainly runs the express-ping middleware with cors enabled",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beeman/express-pinger"
+  },
+  "keywords": [
+    "express",
+    "express-ping",
+    "express-pinger",
+    "ping"
+  ],
+  "author": "Bram Borggreve <borggreve@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beeman/express-pinger/issues"
+  },
+  "homepage": "https://github.com/beeman/express-pinger",
+  "dependencies": {
+    "cors": "^2.4.1",
+    "express": "^4.7.2",
+    "express-ping": "git+https://git@github.com/beeman/express-ping.git"
+  }
+}
