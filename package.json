@@ -1,6 +1,6 @@
 {
   "name": "express-pinger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple node.js app that mainly runs the express-ping middleware with cors enabled",
   "main": "index.js",
   "scripts": {
