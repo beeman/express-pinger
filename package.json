@@ -1,6 +1,6 @@
 {
   "name": "express-pinger",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Simple node.js app that mainly runs the express-ping middleware with cors enabled",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
   "dependencies": {
     "cors": "^2.4.1",
     "express": "^4.7.2",
-    "express-ping": "git+https://git@github.com/beeman/express-ping.git"
+    "express-ping": "^1.0.0"
   }
 }
