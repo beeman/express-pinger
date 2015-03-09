@@ -25,6 +25,6 @@
   "dependencies": {
     "cors": "^2.4.1",
     "express": "^4.7.2",
-    "express-ping": "^1.0.0"
+    "express-ping": "https://github.com/beeman/express-ping/tarball/master"
   }
 }
